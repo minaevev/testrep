@@ -1,1 +1,1 @@
-# testrep
+Тестовый репозиторий для работы с курсом Javascript QA Engineer
